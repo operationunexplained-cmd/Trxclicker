@@ -1,0 +1,19 @@
+{
+  "BOT_TOKEN": "8571577213:AAHM4SjrT5yqTg0DRb-cEUPlyQug3NbL_yo",
+  "MONGO_URI": "mongodb+srv://arshadirfan123:arshadirfan123@trxclicker.h2uspug.mongodb.net/?appName=Trxclicker",
+  "DB_NAME": "Trxclicker",
+  "ADMIN_IDS": [7005244191],
+  "GETBLOCK_TRON_RPC": "https://go.getblock.io/2e333e5d0a38405a9d6eede1312f5575/jsonrpc",
+  "TRX_WALLET": "THpdizKNZD7tDP9T8Cr7YreanQ63W1ajdJ",
+  "USDT_TRC20_CONTRACT": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+  "DEPOSIT_MIN": {
+    "TRX": 30
+  },
+  "WITHDRAW_MIN": {
+    "TRX": 200
+  },
+  "CPC_MIN": 0.15,
+  "CPC_MAX": 2.0,
+  "CAMPAIGN_MIN_BUDGET": 5,
+  "DEPOSIT_POLL_INTERVAL": 20
+}
